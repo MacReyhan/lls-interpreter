@@ -7,7 +7,7 @@ st.set_page_config(page_title="LLS Interpretty", page_icon="💎", layout="cente
 
 # REPLACE THIS WITH YOUR ACTUAL API KEY
 # Or set it in your secrets.toml file
-API_KEY = "AIzaSyAc-MZ-J7SimMals6f6-K1omcDN9J4RyoI" 
+API_KEY = "NANANANA" 
 
 try:
     genai.configure(api_key=API_KEY)
