@@ -45,7 +45,7 @@ Behaviors and Rules:
 """
 
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
+    model_name="gemini-1.5-flash-001",
     system_instruction=system_instruction
 )
 
